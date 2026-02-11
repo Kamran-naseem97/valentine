@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/valentine/static/css/main.cf6a80a2.css",
+    "main.js": "/valentine/static/js/main.093a99b9.js",
+    "static/js/453.7fdd5d1c.chunk.js": "/valentine/static/js/453.7fdd5d1c.chunk.js",
+    "static/media/8.gif": "/valentine/static/media/8.21cf62df6e211900487c.gif",
+    "static/media/9.gif": "/valentine/static/media/9.65652158a5d0429ad02d.gif",
+    "static/media/11.gif": "/valentine/static/media/11.aabfa057a339b6dc22ef.gif",
+    "static/media/floreyonce-cat.gif": "/valentine/static/media/floreyonce-cat.a6ecd10bc5b9da6b1ffe.gif",
+    "static/media/cabby-cabby-cat.gif": "/valentine/static/media/cabby-cabby-cat.2e6d98e682912aba5dba.gif",
+    "static/media/happy-cat.gif": "/valentine/static/media/happy-cat.a0a47e89e2b922f695be.gif",
+    "static/media/flowers.gif": "/valentine/static/media/flowers.0795a1f6de491acb22a2.gif",
+    "static/media/7.gif": "/valentine/static/media/7.d75604658161a047166b.gif",
+    "static/media/10.gif": "/valentine/static/media/10.9fc4815a4fa776bd66e2.gif",
+    "static/media/1.gif": "/valentine/static/media/1.e590007b0e592dc1e452.gif",
+    "static/media/love-i-love-you.gif": "/valentine/static/media/love-i-love-you.ab451be45a1c771f5dcf.gif",
+    "static/media/cat-jump.gif": "/valentine/static/media/cat-jump.ba3cdbc63a16e7efdfc5.gif",
+    "static/media/5.gif": "/valentine/static/media/5.3a02bdf332121a771c16.gif",
+    "static/media/ValentineMob1.png": "/valentine/static/media/ValentineMob1.6b49843c2f515925529b.png",
+    "static/media/4.gif": "/valentine/static/media/4.c059e7253a41a4b8bc21.gif",
+    "static/media/Valentine.png": "/valentine/static/media/Valentine.7be11c8dfadf7dc48d13.png",
+    "static/media/sus.mp3": "/valentine/static/media/sus.e9ffb686c81b5d031fa8.mp3",
+    "static/media/3.gif": "/valentine/static/media/3.24eac3d5daa4b9745e08.gif",
+    "static/media/2.gif": "/valentine/static/media/2.b226b75a1e4c6496cca7.gif",
+    "static/media/okur.mp3": "/valentine/static/media/okur.210e38c44f6ff6ee9863.mp3",
+    "static/media/0.jpg": "/valentine/static/media/0.379c55eee89ed6d2938b.jpg",
+    "static/media/police.jpg": "/valentine/static/media/police.96b73657618a279d7e66.jpg",
+    "static/media/wrongbuzzer.mp3": "/valentine/static/media/wrongbuzzer.1403faa99d393a2ded6e.mp3",
+    "static/media/yippee-tbh.mp3": "/valentine/static/media/yippee-tbh.502d0e062ba7fb25291e.mp3",
+    "static/media/6.gif": "/valentine/static/media/6.77b182a8dafa3708f03a.gif",
+    "static/media/0.gif": "/valentine/static/media/0.9583227dbb7fdea7ffb9.gif",
+    "index.html": "/valentine/index.html",
+    "main.cf6a80a2.css.map": "/valentine/static/css/main.cf6a80a2.css.map",
+    "main.093a99b9.js.map": "/valentine/static/js/main.093a99b9.js.map",
+    "453.7fdd5d1c.chunk.js.map": "/valentine/static/js/453.7fdd5d1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf6a80a2.css",
+    "static/js/main.093a99b9.js"
+  ]
+}
